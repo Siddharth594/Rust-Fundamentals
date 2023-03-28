@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **CSS,HTML**
 
-- 🤝 I’m looking for help with **Atttendence system**
-- 💬 Ask me about **How much your experiece on python**
+- 🤝 I’m looking for help with **Atttendence system using python**
+- 💬 Ask me about **How much your experience on python**
 
 - 📫 How to reach me **hassubalti7@gmail.com**
 
