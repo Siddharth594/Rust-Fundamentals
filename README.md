@@ -6,21 +6,12 @@
 
 - 🌱 I’m currently learning **CSS,HTML**
 
-- 👯 I’m looking to collaborate on **Ecommerce Store**
-
 - 🤝 I’m looking for help with **Atttendence system**
-
-- 👨‍💻 All of my projects are available at [rahuldkjain.github.io/gh-profile-readme-generator/](rahuldkjain.github.io/gh-profile-readme-generator/)
-
-- 📝 I regularly write articles on [https://www.google.com/search?q=blog&oq=blog&aqs=chrome..69i57j0i512j0i395i433i512j0i131i395i433i512j0i395i512j0i395i433i512j69i60j5.1468j1j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=blog&oq=blog&aqs=chrome..69i57j0i512j0i395i433i512j0i131i395i433i512j0i395i512j0i395i433i512j69i60j5.1468j1j7&sourceid=chrome&ie=UTF-8)
-
 - 💬 Ask me about **How much your experiece on python**
 
 - 📫 How to reach me **hassubalti7@gmail.com**
 
-- 📄 Know about my experience [https://www.google.com/search?q=english+to+urdu&oq=english+to+urdu&aqs=chrome.0.69i59j0i433i512j0i512l8.3361j0j7&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=english+to+urdu&oq=english+to+urdu&aqs=chrome.0.69i59j0i433i512j0i512l8.3361j0j7&sourceid=chrome&ie=UTF-8)
-
-- ⚡ About me **Student of Computer sceince**
+- ⚡ About me **Hello, As a computer science student, I am someone who about using technology to solve a specific problem related to me and create innovative solutions. I am really motivated by the world of computer programming languages, algorithms etc. I am excited to learn new things related to my passion like how to write code that will help to automate the given task. The computer science field is that to require both creativity and logical thinking because the overall designing and coding need creativity. And also needs strong communication and teamwork abilities. I will work collaboratively with others to develop and implement solutions that meet the needs of users. I am excited to be a part of the field that is constantly evolving and has such a significant impact on society*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
